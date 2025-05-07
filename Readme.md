@@ -39,7 +39,7 @@ public class Example {
 
 ## 출력 예시
 ```css
-[StopWatch] ⏱Stopwatch started.
+[StopWatch] Stopwatch started.
 [StopWatch] [데이터 로딩] → 301 ms
 [StopWatch] [데이터 처리] → 502 ms
 [StopWatch] Stopwatch stopped. Total elapsed time: 1006 ms
